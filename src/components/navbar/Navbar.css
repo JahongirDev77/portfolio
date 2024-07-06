@@ -1,0 +1,47 @@
+.navbar{
+    border: 1px solid black;
+    width: 100%;
+    height: 70px;
+    display: flex;
+}
+.nav1{
+    width: 50%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav2{
+    width: 50%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+.banner{
+    width: 80%;
+    height: 685px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner_text{
+    width: 60%;
+    height: 685px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.banner_img{
+    width: 40%;
+    height: 650px;
+    background: url('../../../public/photo_2024-06-26_22-48-10.jpg')no-repeat center/cover;
+}
+.banner_text h1{
+    font-size: 60px;
+    width: 615px;
+}
+.banner_text p{
+    font-size: 22px;
+    width: 600px;
+}
+.banner_text span{
+    color: #FF8A56;
+}
+
+.button{
+    margin-top: 40px;
+    width: 72%;
+    height: auto;
+}
+
+.btn{
+    width: 155px;
+    height: 58px;
+    background: black;
+    color: white;
+    border: none;
+}
+.btn2{
+    width: 155px;
+    height: 58px;
+    background: transparent;
+    color: black;
+    border: none;
+}
+
+.card{
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.card span{
+    text-align: center;
+    margin-left: 30%;
+}
+.card span h3{
+    color: green;
+}
+
+.main{
+    width: 100%;
+    height: 488px;
+    margin-top: 50px;
+    display: flex;
+}
+.main1{
+    width: 33%;
+    height: 488px;
+}
+.icon{
+    font-size: 50px;
+}
+
+.green{
+    color: green;
+}
+
+.p{
+    font-weight: bold;
+}
+
+.main2{
+    width: 33%;
+    height: 488px;
+}
+.main3{
+    width: 33%;
+    height: 488px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
